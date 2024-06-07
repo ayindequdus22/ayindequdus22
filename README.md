@@ -46,6 +46,13 @@ A fully responsive multi-page e-commerce car website created using HTML, CSS, an
 Discover a seamless fashion shopping experience with this ReactJS-powered multi-page e-commerce website. Browse trends, explore products, and shop securely across intuitive interconnected pages, all designed to elevate your style journey.
 🌱 Learning Journey
 
+
+## 🤝 Collaboration
+
+I'm open to collaborating on exciting projects, especially those related to:
+- Mobile and web application development
+- Backend API development
+- Full stack projects using MERN (MongoDB, Express, React, Node.js) stack
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile/opeyemi-ayinde-08540823b/)
