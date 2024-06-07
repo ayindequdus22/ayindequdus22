@@ -1,17 +1,9 @@
 Hi there,My name is Ayinde Opeyemi Qudus.
-
-![Header Image](https://your-image-url.com) *(Optional: You can include a banner image here)*
+(https://avatars.githubusercontent.com/u/103751233?s=400&u=d6c2dbacb5bc69ff67c36766a6ad27ccac3ce9ae&v=4)
 
 ## 🚀 About Me
 
 I’m a passionate developer with a love for creating innovative solutions and learning new technologies. With a background in [Your Background], I specialize in [Your Specialization].
-
-- 🔭 I’m currently working on [Current Project]
-- 🌱 I’m currently learning [Current Learning Focus]
-- 👯 I’m looking to collaborate on [Projects or Types of Projects]
-- 💬 Ask me about [Topics of Expertise]
-- 📫 How to reach me: [Your Email/LinkedIn/Twitter/Website]
-- ⚡ Fun fact: [Something Interesting About You]
 
 ## 🛠️ Technologies & Tools
 
@@ -30,17 +22,8 @@ Here are some of the technologies and tools I work with:
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayindequdus22&show_icons=true&theme=radical)
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How I Built a Full-Stack App Using React and Node.js](https://yourblog.com)
-- [Understanding Asynchronous JavaScript](https://yourblog.com)
-- [Getting Started with Docker](https://yourblog.com)
-<!-- BLOG-POST-LIST:END -->
-
-*(Use GitHub Actions to automatically update your blog posts if you have a blog)*
 
 ## 📫 Connect with Me
 
