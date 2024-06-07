@@ -22,7 +22,7 @@ Here are some of the technologies and tools I work with:
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayindequdus22&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=anteqs&show_icons=true&theme=radical)
 
 
 ## 📫 Connect with Me
