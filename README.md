@@ -3,16 +3,28 @@ Hi there,My name is Ayinde Opeyemi Qudus.
 
 ## 🚀 About Me
 
-I’m a passionate developer with a love for creating innovative solutions and learning new technologies. With a background in [Your Background], I specialize in [Your Specialization].
+I’m a passionate and dedicated Full Stack developer with a love for creating innovative solutions and building dynamic and responsive web and mobile applications. My expertise spans across various modern technologies, allowing me to create robust and scalable solutions.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayindequdus22&label=Profile%20views&color=0e75b6&style=flat" alt="ayindequdus22" /> </p>
 
 ## 🛠️ Technologies & Tools
 
 Here are some of the technologies and tools I work with:
+### Frontend
+- **Flutter:** ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+- **React Native:** ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+- **React:** ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+- **CSS:** ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
+ - **Javascript:** ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+### Backend
+- **Node.js:** ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+- **Express.js:** ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+### Databases
+- **MySQL:** ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+- **MongoDB:** ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+
+
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 ## 📈 GitHub Stats
