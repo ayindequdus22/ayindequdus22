@@ -26,8 +26,8 @@ Here are some of the technologies and tools I work with:
 
 ## Others
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+## Most Used Technologies
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayindequdus22&hide_progress=true)
 ## 📈 GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayindequdus22&show_icons=true&locale=en&layout=compact" alt="ayindequdus22" /></p>
 
