@@ -1,6 +1,4 @@
 Hi there,My name is Ayinde Opeyemi Qudus.
-<p><img src="https://avatars.githubusercontent.com/u/103751233?s=400&u=d6c2dbacb5bc69ff67c36766a6ad27ccac3ce9ae&v=4" alt="ayindequdus22"  </p>
-
 ## 🚀 About Me
 
 I’m a passionate and dedicated Full Stack developer with a love for creating innovative solutions and building dynamic and responsive web and mobile applications. My expertise spans across various modern technologies, allowing me to create robust and scalable solutions.
