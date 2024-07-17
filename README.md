@@ -25,9 +25,7 @@ Here are some of the technologies and tools I work with:
 ## Others
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayindequdus22&" alt="ayindequdus22" /></p>
-
+ | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayindequdus22&layout=compact&theme=buefy&hide_border=true"  alt="ayindequdus22"/> |
 🔭 Current Projects
 I'm currently working on:
 
