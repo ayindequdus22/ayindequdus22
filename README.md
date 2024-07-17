@@ -25,8 +25,8 @@ Here are some of the technologies and tools I work with:
 ## Others
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
- 🔭 Previous Experiences
-Projects I've worked on in the past:
+ ##🔭 Previous Experiences
+ ### Projects I've worked on in the past:
 
 [A-cars](https://car-website-roan-five.vercel.app/): This MERN stack car application allows users to browse cars, manage their carts, and mark favorites, featuring secure authentication with bcrypt and JWT. It uses TanStack Query for efficient data fetching and caching, with a responsive design and smooth loading animations for enhanced user experience. Key technologies include React, Node.js, Express.js, MongoDB, and React Context API for state management.
 
