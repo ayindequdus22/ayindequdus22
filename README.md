@@ -33,7 +33,7 @@ Here are some of the technologies and tools I work with:
 [Carvan](https://anteqs-carvan.netlify.app/): 
 A fully responsive multi-page e-commerce car website created using HTML, CSS, and JavaScript allows users to browse and purchase cars online. Featuring intuitive navigation, sleek design, and dynamic content, this site ensures a seamless user experience across all devices.
 
-[Belle](https://belle-gold.vercel.app/products): 
+[Belle](https://belle-gold.vercel.app/): 
 Discover a seamless fashion shopping experience with this ReactJS-powered multi-page e-commerce website. Browse trends, explore products, and shop securely across intuitive interconnected pages, all designed to elevate your style journey.
 🌱 Learning Journey
 
