@@ -28,12 +28,12 @@ Here are some of the technologies and tools I work with:
  ##🔭 Previous Experiences
  ### Projects I've worked on in the past:
 
-[A-cars](https://car-website-roan-five.vercel.app/): This MERN stack car application allows users to browse cars, manage their carts, and mark favorites, featuring secure authentication with bcrypt and JWT. It uses TanStack Query for efficient data fetching and caching, with a responsive design and smooth loading animations for enhanced user experience. Key technologies include React, Node.js, Express.js, MongoDB, and React Context API for state management.
+[A-cars](https://a-cars.vercel.app/): This MERN stack car application allows users to browse cars, manage their carts, and mark favorites, featuring secure authentication with bcrypt and JWT. It uses TanStack Query for efficient data fetching and caching, with a responsive design and smooth loading animations for enhanced user experience. Key technologies include React, Node.js, Express.js, MongoDB, and React Context API for state management.
 
 [Carvan](https://anteqs-carvan.netlify.app/): 
 A fully responsive multi-page e-commerce car website created using HTML, CSS, and JavaScript allows users to browse and purchase cars online. Featuring intuitive navigation, sleek design, and dynamic content, this site ensures a seamless user experience across all devices.
 
-[Belle](https://anteqs-e-store.netlify.app/): 
+[Belle](https://belle-gold.vercel.app/products): 
 Discover a seamless fashion shopping experience with this ReactJS-powered multi-page e-commerce website. Browse trends, explore products, and shop securely across intuitive interconnected pages, all designed to elevate your style journey.
 🌱 Learning Journey
 
