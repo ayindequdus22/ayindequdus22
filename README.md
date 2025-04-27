@@ -2,7 +2,6 @@ Hi there,My name is Ayinde Opeyemi Qudus.
 ## 🚀 About Me
 
 I’m a passionate and dedicated Full Stack developer with a love for creating innovative solutions and building dynamic and responsive web and mobile applications. My expertise spans across various modern technologies, allowing me to create robust and scalable solutions.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayindequdus22&label=Profile%20views&color=0e75b6&style=flat" alt="ayindequdus22" /> </p>
 
 ## 🛠️ Technologies & Tools
 
